@@ -30,7 +30,7 @@
 
   To use the application, run "node index.js". To run the tests associated, run "npm test". Both of which are input into the CLI.
 
-  [Video for Application in use here](<examples/Untitled_ Jul 28, 2023 7_33 PM.webm>)
+  [Video for Application in use here](https://watch.screencastify.com/v/XvauS3uR0jV8h4gwzIG4)
 
 
   ## Credit
